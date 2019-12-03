@@ -1,3 +1,5 @@
+
+
 <?php
 
 /**
@@ -59,4 +61,3 @@ implode(", ", array_keys($new_user)),
 </form>
 
 <a href="index.php">Back to home</a>
-
